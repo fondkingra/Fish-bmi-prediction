@@ -10,6 +10,17 @@ The Fish BMI Calculator is a tool that utilizes the YOLOv8 deep learning model t
 - **Metric Calculation:** Calculate height, width, and BMI for each detected fish.
 - **Annotated Output Video:** Visualize the calculated metrics directly on the video frames.
 
+## Example Output
+
+You can view an example output video demonstrating the functionality of the Fish BMI Calculator below:
+
+[Download Output Video](https://github.com/fondkingra/Fish-bmi-prediction/raw/main/output.mp4)
+
+Alternatively, you can watch it directly in your browser by clicking the link below:
+
+[Watch Output Video](https://github.com/fondkingra/Fish-bmi-prediction/blob/main/output.mp4)
+
+
 ## Table of Contents
 
 1. [Requirements](#requirements)
